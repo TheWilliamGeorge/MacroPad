@@ -19,7 +19,6 @@
 | [Raspberry Pi PICO](https://amzn.eu/d/0dWBL3ce) | The microcontroller. Could be $11.87 if not on sale. | 1 | $7.17 | $7.17 | [Amazon UK](https://amzn.eu/d/0dWBL3ce) |
 | Keycaps | — | 1 | $0.00 | $0.00 | — |
 | [PCB](https://JLCPCB.com) | The PCB lol. Price is estimate for desktop app. $5.30 otherwise. | 1 | $3.30 | $3.30 | [JLCPCB](https://JLCPCB.com) |
-| LCSC Shipping | — | 1 | $0.00 | $0.00 | — |
 | LCSC Handling | — | 1 | $0.00 | $0.00 | — |
 | JLCPCB Shipping | — | 1 | $0.00 | $0.00 | — |
 | **Parts subtotal** | — | — | — | **$14.61** | — |
