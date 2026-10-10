@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.13h | 5 |
+| Week 1 | Tier 1 | 9.33h | 5 |
 
 ## Contents
 
@@ -88,7 +88,7 @@ New layout. Just need the LEDs.
 
 ### 2026-10-10 – Okay, I am almost there! I have fully designed the PCB today!
 
-**2.5h**
+**2.7h**
 
 Okay, I am almost there! I have fully designed the PCB today!
 
