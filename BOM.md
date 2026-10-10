@@ -20,7 +20,7 @@
 | Keycaps | — | 1 | $0.00 | $0.00 | — |
 | [PCB](https://JLCPCB.com) | The PCB lol. Price is estimate for desktop app. $5.30 otherwise. | 1 | $3.30 | $3.30 | [JLCPCB](https://JLCPCB.com) |
 | **Parts subtotal** | — | — | — | **$14.61** | — |
-| **Tax & shipping** | — | — | — | **$13.00** | — |
-| **Total** | — | — | — | **$27.61** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$14.61** | — |
 
-$2.39 left of the tier's funding.
+$15.39 left of the tier's funding.
