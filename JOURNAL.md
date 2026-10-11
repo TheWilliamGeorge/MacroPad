@@ -10,11 +10,11 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.33h | 5 |
+| Week 1 | Tier 1 | 10.33h | 5 |
 
 ## Contents
 
-1. [2026-10-07 – Unfortunately, I have decided that my original project idea of a microphone was just too hard. So, I'm going for 5 simple projects instead. Today, I planned out and designed my MIDI keyboard that I'm](#2026-10-07-unfortunately-i-have-decided-that-my-original-pro)
+1. [2026-10-07 – At the beginning of the week, I learned how to make PCBs. To do this, I followed 2 tutorials, and created 2 circuit boards from scratch. The first one was easier and a video tutorial, and the second w](#2026-10-07-at-the-beginning-of-the-week-i-learned-how-to-mak)
 2. [2026-10-08 – Today I finished off designing the schematic. Turns out there were quite a few issues with it! So I think I have fixed those now. I have also made some decisions about how this is going to work.](#2026-10-08-today-i-finished-off-designing-the-schematic-turn)
 3. [2026-10-08 – I guess going into this with very little plan wasn't the greatest idea of all time...](#2026-10-08-i-guess-going-into-this-with-very-little-plan-was)
 4. [2026-10-09 – Have you SEEN how much a long PCB costs??!!](#2026-10-09-have-you-seen-how-much-a-long-pcb-costs)
@@ -22,13 +22,30 @@
 
 ## Design
 
-### 2026-10-07 – Unfortunately, I have decided that my original project idea of a microphone was just too hard. So, I'm going for 5 simple projects instead. Today, I planned out and designed my MIDI keyboard that I'm
+### 2026-10-07 – At the beginning of the week, I learned how to make PCBs. To do this, I followed 2 tutorials, and created 2 circuit boards from scratch. The first one was easier and a video tutorial, and the second w
 
-**3h**
+**4h**
 
-Unfortunately, I have decided that my original project idea of a microphone was just too hard. So, I'm going for 5 simple projects instead. Today, I planned out and designed my MIDI keyboard that I'm going to make using cherry MX switches.
+At the beginning of the week, I learned how to make PCBs. To do this, I followed 2 tutorials, and created 2 circuit boards from scratch. The first one was easier and a video tutorial, and the second was more complex, and just a text tutorial. The first used a wireless module to turn on an LED. The second took power input from a USB-C female connector and powered an LED with a switch. I turned both of these into PCB designs and laid out the board, and also routed them. This took me about an hour.
+
+Having learned how to make PCBs, I then began copying the schematic for the microphone PCB onto EasyEDA, ready to be laid out onto the PCB.
+
+However, unfortunately, I have decided that my original project idea of a microphone was just too hard. So, I'm going for 5 simple projects instead. Today, I planned out and designed my MIDI keyboard that I'm going to make using cherry MX switches.
 Once I had created a design and a plan, I began to make the schematic, loosely following this hack club tutorial: https://blueprint.hackclub.com/starter-projects/midi
 I am going to have 25 keys, octave up and down keys, 2 rotary encoders for modulation, and a pitch bend wheel. I added all these to my PCB schematic. Tomorrow, I can turn it into a PCB!
+
+The first tutorial schematic:
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/2d85dc1932889698ce8618cd78561f6cbbe846860b5cc1401df795737319e58c.png)
+
+And its PCB:
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/d34cd7ff59e6baaba5602f99ccfef5722ce5b1cee74d430a6cf0565bcd31cd1b.png)
+
+The second tutorial schematic:
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/e408f1254d11ef5a1ad65f9aa6682d0368d23250426b428ab4af6e0634aed14a.png)
+
+And its PCB:
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/43f03da60797c0c6eb8b24f8144267245ea229d82cb53db21852e7cb0c92ae52.png)
+The routing on this one was 🤮 but nvm 😂
 
 Matrix:
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/EBuChAcUkspX5zhs3qEVPUNL9stbHepB/bec65ad8871ecb7eb521f88de18f03727c5adb7e227081e89437ec8160415b50.png)
