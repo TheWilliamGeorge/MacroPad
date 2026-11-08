@@ -9,9 +9,11 @@ This project is a transport controller/macro pad to be used in all my favourite 
 - .schdoc Format Schematic: [No-Matrix_2026-10-10.schdoc](https://github.com/TheWilliamGeorge/MacroPad/blob/main/No-Matrix_2026-10-10.schdoc)
 - DXF format PCB Design: [PCB_Macro-Pad_2_2026-10-10.dxf](https://github.com/TheWilliamGeorge/MacroPad/blob/main/PCB_Macro-Pad_2_2026-10-10.dxf)
 - Schematic Design (EasyEDA format): [SCH_Macro-Pad_2026-10-21.json](https://github.com/TheWilliamGeorge/MacroPad/blob/main/SCH_Macro-Pad_2026-10-21.json)
+- Schematic Design (EasyEDA .epro2 raw source format): [PCB_MACRO PAD_2.epro2](https://github.com/TheWilliamGeorge/MacroPad/blob/main/PCB_Macro%20Pad_2.epro2)
 
 I don't think I can export the schematic or PCB in any other format from EasyEDA, so you may have to open these in EasyEDA to see them.
 
+*ONCE I'VE BUILT IT, AN IMAGE WILL GO HERE*
 
 ## What it is
 The MacroPad will be comprised of a single PCB, which I have designed and will have printed by JLCPCB. An array of 8 Cherry MX-style key switches (brown) with MX-style keycaps will be available to perform different functions. A ninth button will be reserved for spacebar (play/pause), and a tenth for toggling between different app modes. 
