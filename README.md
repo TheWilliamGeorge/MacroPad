@@ -4,6 +4,7 @@ This is my Hack Club Half Life Week 1: PCB Design Project.
 This project is a transport controller/macro pad to be used in all my favourite creative apps. 
 
 - Bill of Materials: [BOM.md](BOM.md)
+- - Bill of Materials CSV: [BOM.csv](BOM.csv)
 - PCB Gerber File for Manufacture: [REAL ACTUAL Final GERBER.zip](https://github.com/TheWilliamGeorge/MacroPad/blob/main/REAL%20ACTUAL%20Final%20GERBER.zip)
 - PCB Design (EasyEDA format): [Final_MacroPad_EasyEDA.json](https://github.com/TheWilliamGeorge/MacroPad/blob/main/Final_MacroPad_EasyEDA.json)
 - .schdoc Format Schematic: [No-Matrix_2026-10-10.schdoc](https://github.com/TheWilliamGeorge/MacroPad/blob/main/No-Matrix_2026-10-10.schdoc)
